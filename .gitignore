@@ -75,3 +75,5 @@ DerivedDataCache/*
 
 # Large files
 Content/Sounds/*
+Content/FMOD/*
+!Content/FMOD/Banks/*
